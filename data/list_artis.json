@@ -1,0 +1,111 @@
+[
+    {
+      "id": "0",
+      "image": "https://mmc.tirto.id/image/2016/06/23/TIRTO-antarafoto-konser-pelangi-iwan-fals-231114-ies-2_ratio-16x9.JPG",
+      "name": "Iwan Fals",
+      "description": "Virgiawan Liestanto, terkenal dengan nama panggungnya Iwan Fals adalah seorang penyanyi, musisi, pencipta lagu, dan kritikus yang menjadi salah satu legenda di Indonesia.",
+      "jumlah": "4 Konser",
+      "exercises": [
+        {
+          "id": "10",
+          "image": "https://wethefest.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg_home-logo.7c971d1a.png&w=3840&q=75",
+          "name": "We The Fest",
+          "price": "120000",
+          "date": "20 October",
+          "lokasi": "Indonesian",
+          "desc": "We The Fest is an annual summer festival of music, arts, fashion and food in Jakarta, Indonesia. The first edition was held on August 24, 2014, and it has since been held at Parkir Timur Senayan. In 2017, the event was moved to Jakarta International Expo Kemayoran."
+        },
+        {
+          "id": "11",
+          "image": "https://d3hzxw6fwm263k.cloudfront.net/uploads/events/photos/1652176565-Z81UVhb2wqlyaiWDgusNZVVLB1G5VcAl.jpeg",
+          "name": "Waktu Indonesia Berdansa",
+          "price": "320000",
+          "date": "2 March",
+          "lokasi": "Indonesian",
+          "desc": "Waktu Indonesia Berdansa merupakan acara festival yang dibentuk dengan tujuan bahwa sekelompok anak muda dapat membuat dan menghidupkan acara festival musik yang sempat terhenti karena pandemi Covid-19"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "image": "https://pophariini.com/wp-content/uploads/2022/09/D73909BE-5B7C-4248-A0D1-ABCC4DDE8782-scaled.jpeg",
+      "name": "Last Child",
+      "description": "7x4 CHALLENGE",
+      "jumlah": "5 Konser",
+      "exercises": [
+        {
+          "id": "90",
+          "image": "https://static.republika.co.id/uploads/images/inpicture_slide/poster-pengumuman-konser-coldplay-di-jakarta-indonesia-pada-15_230509100517-745.jpeg",
+          "name": "ColdPlay Konser",
+          "price": "900.000",
+          "date": "12 June",
+          "lokasi": "Indonesian",
+          "desc": "Konser Coldplay merupakan pengalaman yang luar biasa, di mana para penggemar dapat terhubung dengan musik mereka secara langsung.Setiap konser Coldplay dirancang dengan sangat apik, dengan menggunakan teknologi canggih, efek visual yang mengagumkan, dan pertunjukan panggung yang spektakuler."
+        },
+        {
+          "id": "91",
+          "image": "https://cdns.klimg.com/kapanlagi.com/p/whatsappimage20221102at170433.jpeg",
+          "name": "SoundDrenaline",
+          "price": "450.000",
+          "date": "3 September",
+          "lokasi": "Indonesian",
+          "desc": "Soundrenaline adalah sebuah festival musik tahunan yang diadakan di Indonesia sejak tahun 2002. Festival ini menjadi salah satu acara musik terbesar dan paling dinanti di Indonesia, yang menampilkan berbagai genre musik seperti rock, pop, alternative, dan elektronik."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb76e2b7e27608871fd75765b3",
+      "name": "The Changcuters",
+      "description": "7x4 CHALLENGE",
+      "jumlah": "5 Konser",
+      "exercises": [
+        {
+          "id": "70",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/185288/huge_avatar",
+          "name": "Mr Big",
+          "price": "250.000",
+          "date": "12 August",
+          "lokasi": "Indonesian",
+          "desc": "Konser Mr. Big adalah pengalaman yang energik dan penuh semangat, di mana para penggemar dapat menikmati penampilan langsung dari band yang legendaris ini. Pada konser Mr. Big, penonton akan disuguhkan dengan kemampuan musik yang luar biasa dari setiap anggota band"
+        },
+        {
+          "id": "71",
+          "image": "https://newestindonesia.com/wp-content/uploads/2022/10/2065ab16-cfc6-4aa9-8497-6739b7367726-1666760922426-adce1f2653f78aa492cad4f793f7c226_11zon.jpeg",
+          "name": "Sounds of Downtown",
+          "price": "350.000",
+          "date": "6 August",
+          "lokasi": "Indonesian",
+          "desc": "Sounds of Downtown adalah konser musik yang diadakan di pusat kota atau daerah perkotaan tertentu. Konser ini biasanya menampilkan berbagai genre musik, seperti pop, rock, jazz, atau musik elektronik, dan dirancang untuk menghibur penduduk setempat dan pengunjung kota."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://assets.hops.id/crop/0x0:0x0/750x500/webp/photo/2022/11/23/3807346175.jpg",
+      "name": "Raisa",
+      "description": "7x4 CHALLENGE",
+      "jumlah": "5 Konser",
+      "exercises": [
+        {
+          "id": "20",
+          "image": "https://cdn2.tstatic.net/travel/foto/bank/images/poster-pestapora-2023.jpg",
+          "name": "PestaPora",
+          "price": "350.000",
+          "date": "12 December",
+          "lokasi": "Indonesian",
+          "desc": "Pestapora adalah selebrasi terbaru pertunjukkan musik Indonesia yang diselenggarakan oleh Boss Creator. Perayaan musik yang akan diselenggarakan selama tiga hari mulai tanggal 22, 23, 24 September 2023 berlokasi di Gambir Expo, Kemayoran Jakarta."
+        },
+        {
+          "id": "21",
+          "image": "https://visitingjogja.jogjaprov.go.id/web/wp-content/uploads/2022/12/prambanan-jazz-7.jpg",
+          "name": "Prambanan Jazz",
+          "price": "500.000",
+          "date": "9 July",
+          "lokasi": "Indonesian",
+          "desc": "Prambanan Jazz adalah sebuah festival musik jazz yang diadakan di kompleks candi Prambanan, Yogyakarta, Indonesia. Festival ini menawarkan pengalaman musik yang unik dengan latar belakang megahnya candi Prambanan yang menjadi warisan budaya dunia."
+        }
+      ]
+    }
+  ]
+  
